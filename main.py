@@ -23,7 +23,6 @@ def baz():
     print("Hello world!")
 
 def main():
-    
     print( foo("Hello", "world!") )
     print( bar() )
     baz()
